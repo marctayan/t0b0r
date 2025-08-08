@@ -8,13 +8,13 @@ from google.oauth2.service_account import Credentials
 import openai
 
 # Path to your Google Cloud JSON key file
-key_path = "/home/t0b0r/Downloads/airy-media-450104-k5-887a4ed33981.json"  # Update this path
+key_path = "PATH" 
 
 # Google Speech-to-Text and Text-to-Speech credentials
 credentials = Credentials.from_service_account_file(key_path)
 
 # OpenAI API Client
-openai_client = openai.OpenAI(api_key="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")
+openai_client = openai.OpenAI(api_key="YOUR_OPENAI_API_KEY_HERE")
 
 # Google Speech-to-Text client
 speech_client = speech.SpeechClient(credentials=credentials)
@@ -124,7 +124,6 @@ def main():
 })
 
 
-# Run the assistant
 if __name__ == "__main__":
     main()
 
