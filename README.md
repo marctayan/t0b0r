@@ -8,4 +8,3 @@ Worked on from December 2024 to February 2025, for a friend's engineering capsto
 
 <img src="https://cdn.discordapp.com/attachments/1423511961009913917/1424814314971336704/IMG_4925.jpg?ex=68e5513c&is=68e3ffbc&hm=2b1392db649d8c5b4affb0e03e19e6ac9c89fd59326d2497cb4ac82f61ae31d8&">
 
-<video src="https://cdn.discordapp.com/attachments/1423511961009913917/1424814315461935228/76233145903__2420D97A-AD9F-4353-A482-3A0FCAB8A94D.mov?ex=68e5513c&is=68e3ffbc&hm=16ae57b5744b5b42f8b9e6381d1090a60dfbbe525ef33c829ee871640e32ef4c&">
